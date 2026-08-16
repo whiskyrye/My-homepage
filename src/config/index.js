@@ -10,11 +10,11 @@
 
 // 站点基本信息
 export const siteConfig = {
-  title: "ovoxo.cc",                // 浏览器标签页上显示的标题 
-  author: "天天",                   // 站长名称
+  title: "RAN.INK",                // 浏览器标签页上显示的标题 
+  author: "whiskyrye",                   // 站长名称
   description: "记录生活碎片、收集灵感糖果的小站，点进来就是朋友啦！",
-  url: "ovoxo.cc",                   // 站点链接 (用户自己的域名)
-  startTime: "2025-04-15",           // 建站时间
+  url: "ran.ink",                   // 站点链接 (用户自己的域名)
+  startTime: "2026-08-08",           // 建站时间
   icp: "-----备案信息-----",       // ICP 备案号
   
 
